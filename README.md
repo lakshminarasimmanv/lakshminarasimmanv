@@ -14,6 +14,12 @@ A passionate, delivery-focused, and result-driven DevOps Engineer with 2+ years 
 
 - 📫 How to reach me **lakshminarasimman.v17@gmail.com**
 
+## **Follow me on:**
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white?)](https://www.linkedin.com/in/lakshmi-narasimman/)
+[![twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/narasimman_tech)
+[![medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@narasimman_tech)
+
 ## **Skills:**
 
 <h3 align="left">Programming Languages:</h3>
@@ -63,10 +69,3 @@ A passionate, delivery-focused, and result-driven DevOps Engineer with 2+ years 
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
 
 </p>
-
----
-## **Follow me on:**
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white?)](https://www.linkedin.com/in/lakshmi-narasimman/)
-[![twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/narasimman_tech)
-[![medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@narasimman_tech)
