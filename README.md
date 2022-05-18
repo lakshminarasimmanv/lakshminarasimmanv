@@ -64,11 +64,9 @@ A passionate, delivery-focused, and result-driven DevOps Engineer with 2+ years 
 
 </p>
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshminarasimmanv&show_icons=true&locale=en&layout=compact" alt="lakshminarasimmanv" /></p> -->
-
-----
+---
 ## **Follow me on:**
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white?)](https://www.linkedin.com/in/lakshmi-narasimman/)
 [![twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/narasimman_tech)
-[![medium](https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@narasimman_tech)
+[![medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@narasimman_tech)
