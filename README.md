@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lakshmi Narasimman V</h1>
+![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQE32EPhhkv48Q/profile-displaybackgroundimage-shrink_350_1400/0/1652151756399?e=1658361600&v=beta&t=xC5bggzkbIukxPBSMtc_CUpqOHiJ7OWdve_7tXYnzyQ)
+
+<h1 align="center">Hi 👋, I'm Lakshmi Narasimman</h1>
 <h3 align="center">DevOps and Golang Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshminarasimmanv&label=Profile%20views&color=0e75b6&style=flat" alt="lakshminarasimmanv" /> </p>
@@ -6,18 +8,11 @@
 <p align="left"> <a href="https://twitter.com/narasimman_tech" target="blank"><img src="https://img.shields.io/twitter/follow/narasimman_tech?logo=twitter&style=for-the-badge" alt="narasimman_tech" /></a> </p>
 
 ## **About:**
-
 A passionate, delivery-focused, and result-driven DevOps Engineer with 2+ years of hands-on experience in constructing CI/CD pipelines and deploying highly available and scalable infrastructure on AWS.
 
 - 📝 I regularly write articles on [narasimmantech.com](narasimmantech.com)
 
 - 📫 How to reach me **lakshminarasimman.v17@gmail.com**
-
-## **Follow me on:**
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white?)](https://www.linkedin.com/in/lakshmi-narasimman/)
-[![twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/narasimman_tech)
-[![medium](https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@narasimman_tech)
 
 ## **Skills:**
 
@@ -69,4 +64,11 @@ A passionate, delivery-focused, and result-driven DevOps Engineer with 2+ years 
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshminarasimmanv&show_icons=true&locale=en&layout=compact" alt="lakshminarasimmanv" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshminarasimmanv&show_icons=true&locale=en&layout=compact" alt="lakshminarasimmanv" /></p> -->
+
+----
+## **Follow me on:**
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white?)](https://www.linkedin.com/in/lakshmi-narasimman/)
+[![twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/narasimman_tech)
+[![medium](https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@narasimman_tech)
