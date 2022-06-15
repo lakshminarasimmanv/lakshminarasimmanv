@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ![MasterHead](https://www.canva.com/design/DAFDdlUexe8/TZuvCAeeCkk3dmourD-7CA/view?utm_content=DAFDdlUexe8&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+||||||| parent of 51b7b88 (updated readme)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQE32EPhhkv48Q/profile-displaybackgroundimage-shrink_350_1400/0/1652151756399?e=1658361600&v=beta&t=xC5bggzkbIukxPBSMtc_CUpqOHiJ7OWdve_7tXYnzyQ)
+=======
+![MasterHead](master_head.png)
+>>>>>>> 51b7b88 (updated readme)
 
 <h1 align="center">Hi 👋, I'm Lakshmi Narasimman</h1>
 <h3 align="center">DevOps and Golang Engineer.</h3>
