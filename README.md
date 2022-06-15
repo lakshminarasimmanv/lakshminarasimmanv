@@ -1,4 +1,4 @@
-![MasterHead]([[[https://media-exp1.licdn.com/dms/image/C5616AQE32EPhhkv48Q/profile-displaybackgroundimage-shrink_350_1400/0/1652151756399?e=1658361600&v=beta&t=xC5bggzkbIukxPBSMtc_CUpqOHiJ7OWdve_7tXYnzyQ](https://media-exp1.licdn.com/dms/image/C4D16AQFViLOpVrItZw/profile-displaybackgroundimage-shrink_350_1400/0/1655102680973?e=1660780800&v=beta&t=Aqmix4HI11w76vCo2-L-Yd8MBYh3_dGlcULL0hyne6Q)](https://media-exp1.licdn.com/dms/image/C4D16AQFViLOpVrItZw/profile-displaybackgroundimage-shrink_350_1400/0/1655102680973?e=1660780800&v=beta&t=Aqmix4HI11w76vCo2-L-Yd8MBYh3_dGlcULL0hyne6Q)](https://www.canva.com/design/DAFDdlUexe8/TZuvCAeeCkk3dmourD-7CA/view?utm_content=DAFDdlUexe8&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu))
+![MasterHead](https://www.canva.com/design/DAFDdlUexe8/TZuvCAeeCkk3dmourD-7CA/view?utm_content=DAFDdlUexe8&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
 <h1 align="center">Hi 👋, I'm Lakshmi Narasimman</h1>
 <h3 align="center">DevOps and Golang Engineer.</h3>
