@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/narasimman_tech" target="blank"><img src="https://img.shields.io/twitter/follow/narasimman_tech?logo=twitter&style=for-the-badge" alt="narasimman_tech" /></a> </p>
 
 ## **About:**
-A passionate and result-driven DevOps Engineer with 2+ years of hands-on experience in constructing CI/CD pipelines and deploying highly available and scalable infrastructure. My skills include Golang, gRPC, Kubernetes, Docker, Terraform, Ansible, Linux, AWS, and GCP. My interests are DevOps, GitOps, and Cloud-native technologies.
+A passionate and result-driven DevOps Engineer with 23+ years of hands-on experience in constructing CI/CD pipelines and deploying highly available and scalable infrastructure. My skills include Golang, gRPC, Kubernetes, Docker, Terraform, Ansible, Linux, AWS, and GCP. My interests are DevOps, GitOps, and Cloud-native technologies.
 
 I have a strong focus on delivery and customer satisfaction, and I am always looking for ways to improve the efficiency of the systems I work on.
 
