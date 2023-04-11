@@ -32,6 +32,14 @@ I have a strong focus on delivery and customer satisfaction, and I am always loo
 
 </p>
 
+<h3 align="left">AI/ML:</h3>
+
+<p align="left">
+
+<a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> </a>
+
+</p>
+
 <h3 align="left">Backend Development:</h3>
 
 <p align="left">
