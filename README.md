@@ -8,9 +8,10 @@
 <p align="left"> <a href="https://twitter.com/narasimman_tech" target="blank"><img src="https://img.shields.io/twitter/follow/narasimman_tech?logo=twitter&style=for-the-badge" alt="narasimman_tech" /></a> </p>
 
 ## **About:**
+
 Passionate and innovative, I am a results-driven Computer Vision and Deep Learning Engineer with a strong focus on engineering and development. Equipped with expertise in PyTorch, Convolutional Neural Networks, and MLOps, I thrive on designing and implementing cutting-edge solutions that push the boundaries of what is possible in the field.
 
-Currently, I am an integral part of the dynamic engineering team at V3 Analytics, a fintech startup based in Madurai. Here, I contribute my skills to develop robust computer vision and deep learning solutions that revolutionize the financial industry. Leveraging the power of Kubernetes, I design and optimize MLOps pipelines to ensure seamless integration and scalable deployment of our advanced models.
+I am an integral part of the dynamic engineering team at V3 Analytics, a fintech startup based in Madurai. Here, I contribute my skills to develop robust computer vision and deep learning solutions that revolutionize the financial industry. Leveraging the power of Kubernetes, I design and optimize MLOps pipelines to ensure seamless integration and scalable deployment of our advanced models.
 
 My GitHub profile serves as a reflection of my passion for engineering and development. It showcases a wide range of innovative projects and contributions that highlight my expertise in building efficient and reliable solutions. From high-performance convolutional neural networks to streamlined MLOps workflows, my repositories demonstrate a commitment to delivering excellence in every aspect of my work.
 
@@ -33,6 +34,14 @@ Let's embark on a journey of engineering excellence together, pushing the bounda
 <p align="left">
 
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+</p>
+
+<h3 align="left">AI/ML:</h3>
+
+<p align="left">
+
+<a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> </a>
 
 </p>
 
