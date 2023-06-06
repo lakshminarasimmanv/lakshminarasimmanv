@@ -8,9 +8,13 @@
 <p align="left"> <a href="https://twitter.com/narasimman_tech" target="blank"><img src="https://img.shields.io/twitter/follow/narasimman_tech?logo=twitter&style=for-the-badge" alt="narasimman_tech" /></a> </p>
 
 ## **About:**
-A passionate and result-driven DevOps Engineer with 3+ years of hands-on experience in constructing CI/CD pipelines and deploying highly available and scalable infrastructure. My skills include Golang, gRPC, Kubernetes, Docker, Terraform, Ansible, Linux, AWS, and GCP. My interests are DevOps, GitOps, and Cloud-native technologies.
+Passionate and innovative, I am a results-driven Computer Vision and Deep Learning Engineer with a strong focus on engineering and development. Equipped with expertise in PyTorch, Convolutional Neural Networks, and MLOps, I thrive on designing and implementing cutting-edge solutions that push the boundaries of what is possible in the field.
 
-I have a strong focus on delivery and customer satisfaction, and I am always looking for ways to improve the efficiency of the systems I work on.
+I am an integral part of the dynamic engineering team at V3 Analytics, a fintech startup based in Madurai. Here, I contribute my skills to develop robust computer vision and deep learning solutions that revolutionize the financial industry. Leveraging the power of Kubernetes, I design and optimize MLOps pipelines to ensure seamless integration and scalable deployment of our advanced models.
+
+My GitHub profile serves as a reflection of my passion for engineering and development. It showcases a wide range of innovative projects and contributions that highlight my expertise in building efficient and reliable solutions. From high-performance convolutional neural networks to streamlined MLOps workflows, my repositories demonstrate a commitment to delivering excellence in every aspect of my work.
+
+Let's embark on a journey of engineering excellence together, pushing the boundaries of what's possible and creating transformative solutions that leave a lasting impact.
 
 - 📝 I regularly write articles on [narasimmantech.com](narasimmantech.com)
 
