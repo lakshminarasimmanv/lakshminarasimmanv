@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshmi Narasimman</h1>
-<h3 align="center"> Entrepreneur | Machine Learning Engineer | Financial Analyst </h3>
+<h3 align="center"> Entrepreneur | Machine Learning Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshminarasimmanv&label=Profile%20views&color=0e75b6&style=flat" alt="lakshminarasimmanv" /> </p>
 
